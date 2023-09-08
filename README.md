@@ -11,5 +11,5 @@ Members:
 - [Sameer Lakkad](https://github.com/sameerlakkad)
 - [Anmol Kumar]()
 - [Prince Suman]()
-- [Vatsalya Singh]()
+- [Vatsalya Singh](https://github.com/Vatsalya3180)
   
