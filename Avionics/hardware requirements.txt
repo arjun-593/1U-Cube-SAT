@@ -1,0 +1,6 @@
+DHT 11 (Temperature and Humidity Sensor)
+MPU 6050 (Accelerometer and Gyroscope)
+L7912CV Mosfet (Voltage regulator)
+Arduino UNO (Base station Microcontroller)
+Arduino Nano (Satellite Microcontroller)
+433MHz RF Transmitter and Receiver Module (Wirless communication module)
