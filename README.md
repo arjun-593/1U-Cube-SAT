@@ -16,7 +16,7 @@ Members:
 <br>
 - [Arjun S Nair](https://github.com/arjun-593)
 - [Sameer Lakkad](https://github.com/sameerlakkad)
-- [Anmol Kumar](https://github.com/uniqueverseak)
+- [Kumar Anmol](https://github.com/uniqueverseak)
 - [Prince Suman]()
 - [Vatsalya Singh](https://github.com/Vatsalya3108)
 
