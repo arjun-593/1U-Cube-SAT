@@ -25,7 +25,7 @@ Members:
 This repository contains the design and development of a 1U-Cube-SAT in a systematic apporach. The task was majorly divided into 2 parts:
 <br>
 - [Mechanical Designing and Fabrication]()
-- [Avionics]()
+- [Avionics](https://github.com/arjun-593/1U-Cube-SAT/tree/main/Avionics)
 
 ## Mechanical Designing and Fabrication 
 Dealt with Designing part of Cubesat in Fusion360 or Solidworks followed by FEA ( Either Fusion 360 or Ansys ). Major task were:
