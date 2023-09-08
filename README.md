@@ -7,8 +7,8 @@ Mentors:
 
 Members:
 <br>
-- [Sameer Lakkad](https://github.com/sameerlakkad)
 - [Arjun S Nair](https://github.com/arjun-593)
+- [Sameer Lakkad](https://github.com/sameerlakkad)
 - [Anmol Kumar]()
 - [Prince Suman]()
 - [Vatsalya Singh]()
